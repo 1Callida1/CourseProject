@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<military_offices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <military_officesList>
+    <military_office>
+      <id>1</id>
+      <NumberOffice>660121</NumberOffice>
+      <Name>Военкомат На Павлова</Name>
+      <Phone_Number>8 (391) 222-45-67</Phone_Number>
+      <Locate>ул. Павлова, 64, Красноярск, Красноярский край</Locate>
+    </military_office>
+    <military_office>
+      <id>2</id>
+      <NumberOffice>660093</NumberOffice>
+      <Name>Военный комиссариат Свердловского района</Name>
+      <Phone_Number>8 (391) 236-22-73</Phone_Number>
+      <Locate>ул. Королева, 8а, Красноярск, Красноярский край, 660093</Locate>
+    </military_office>
+    <military_office>
+      <id>3</id>
+      <NumberOffice>660049</NumberOffice>
+      <Name>Военный Комиссариат Красноярского Края</Name>
+      <Phone_Number>8 (391) 227-03-18</Phone_Number>
+      <Locate>ул. Ленина, 64, Красноярск, Красноярский край</Locate>
+    </military_office>
+    <military_office>
+      <id>4</id>
+      <NumberOffice>660122</NumberOffice>
+      <Name>Военный комиссариат Кировского и Ленинского района</Name>
+      <Phone_Number>8 (391) 235-51-61</Phone_Number>
+      <Locate>ул. Павлова, 64, Красноярск, Красноярский край</Locate>
+    </military_office>
+    <military_office>
+      <id>5</id>
+      <NumberOffice>660133</NumberOffice>
+      <Name>Военный Комиссариат Советского И Центрального Района</Name>
+      <Phone_Number>8 (391) 224-48-24</Phone_Number>
+      <Locate>ул. Краснодарская, 40б, Красноярск, Красноярский край</Locate>
+    </military_office>
+    <military_office>
+      <id>6</id>
+      <NumberOffice>660021</NumberOffice>
+      <Name>Военный Комиссариат Октябрьского и Железнодорожного района</Name>
+      <Phone_Number>8 (391) 221-94-20</Phone_Number>
+      <Locate>Деповская ул., 34, Красноярск, Красноярский край</Locate>
+    </military_office>
+	<military_office>
+      <id>7</id>
+      <NumberOffice>660021</NumberOffice>
+      <Name>Военный Комиссариат Октябрьского и Железнодорожного района</Name>
+      <Phone_Number>8 (391) 221-94-20</Phone_Number>
+      <Locate>Деповская ул., 34, Красноярск, Красноярский край</Locate>
+    </military_office>
+  </military_officesList>
+</military_offices>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relativess xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RelativessList>
+    <Relative>
+      <id>1</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Андрей</Name>
+      <Surname>Иванов</Surname>
+      <Patronymic>Владимирович</Patronymic>
+      <Degree>1</Degree>
+      <Place_living>г. Красноярск, ул. Ленина, д. 2г, кв. 13</Place_living>
+      <Phone_number>79632242828</Phone_number>
+    </Relative>
+    <Relative>
+      <id>2</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Геннадий</Name>
+      <Surname>Карпов</Surname>
+      <Patronymic>Николаевич</Patronymic>
+      <Degree>1</Degree>
+      <Place_living>г. Красноярск, ул. Ленина, д. 2г, кв. 13</Place_living>
+      <Phone_number>79632242929</Phone_number>
+    </Relative>
+    <Relative>
+      <id>3</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Сергей</Name>
+      <Surname>Иванов</Surname>
+      <Patronymic>Петрович</Patronymic>
+      <Degree>1</Degree>
+      <Place_living>г. Красноярск, ул. Дружбы, д. 13, кв. 1</Place_living>
+      <Phone_number>79874679922</Phone_number>
+    </Relative>
+    <Relative>
+      <id>5</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Петр</Name>
+      <Surname>Иванов</Surname>
+      <Patronymic>Михайлович</Patronymic>
+      <Degree>1</Degree>
+      <Place_living>г. Красноярск, ул. Партизана Железняка, д. 24, кв. 25</Place_living>
+      <Phone_number>79876543221</Phone_number>
+    </Relative>
+    <Relative>
+      <id>6</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Ольга</Name>
+      <Surname>Иванова</Surname>
+      <Patronymic>Борисовна</Patronymic>
+      <Degree>1</Degree>
+      <Place_living>г. Красноярск, ул. Партизана Железняка, д. 24, кв. 25</Place_living>
+      <Phone_number>79876549981</Phone_number>
+    </Relative>
+    <Relative>
+      <id>7</id>
+      <Recruit_id>1</Recruit_id>
+      <Name>Александра</Name>
+      <Surname>Соропеева</Surname>
+      <Patronymic>Дмитриевна</Patronymic>
+      <Degree>2</Degree>
+      <Place_living>г. Назарово, ул. Ленина, д. 1, кв. 2</Place_living>
+      <Phone_number>79875643456</Phone_number>
+    </Relative>
+    <Relative>
+      <id>8</id>
+      <Recruit_id>2</Recruit_id>
+      <Name>Михаил</Name>
+      <Surname>Фролов</Surname>
+      <Patronymic>Михайлович</Patronymic>
+      <Degree>3</Degree>
+      <Place_living>г. Норильск, ул. Космонавтики, д. 32, кв. 8</Place_living>
+      <Phone_number>79023456124</Phone_number>
+    </Relative>
+    <Relative>
+      <id>9</id>
+      <Recruit_id>3</Recruit_id>
+      <Name>Дмитрий</Name>
+      <Surname>Шамов</Surname>
+      <Patronymic>Юрьевич</Patronymic>
+      <Degree>2</Degree>
+      <Place_living>г. Челябинск, ул. Гагарина, д. 15, кв. 49</Place_living>
+      <Phone_number>79657689032</Phone_number>
+    </Relative>
+	<Relative>
+      <id>10</id>
+      <Recruit_id>3</Recruit_id>
+      <Name>Дмитрий</Name>
+      <Surname>Шамов</Surname>
+      <Patronymic>Юрьевич</Patronymic>
+      <Degree>2</Degree>
+      <Place_living>г. Челябинск, ул. Гагарина, д. 15, кв. 49</Place_living>
+      <Phone_number>79657689032</Phone_number>
+    </Relative>
+  </RelativessList>
+</Relativess>

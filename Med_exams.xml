@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Med_exams xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Med_examsList>
+    <Med_exam>
+      <id>1</id>
+      <Conclusion>Годен</Conclusion>
+      <Diagnosis>Полность здоров</Diagnosis>
+      <Date_medexam>10.05.2020 0:00:00</Date_medexam>
+      <LastNameInitials>Зубенко Михаил Петрович</LastNameInitials>
+    </Med_exam>
+    <Med_exam>
+      <id>2</id>
+      <Conclusion>Негоден</Conclusion>
+      <Diagnosis>Сахарный диабед</Diagnosis>
+      <Date_medexam>08.05.2020 0:00:00</Date_medexam>
+      <LastNameInitials>Гоголь Петр Васильевич</LastNameInitials>
+    </Med_exam>
+    <Med_exam>
+      <id>3</id>
+      <Conclusion>Негоден</Conclusion>
+      <Diagnosis>Полность здоров</Diagnosis>
+      <Date_medexam>10.05.2020 0:00:00</Date_medexam>
+      <LastNameInitials>Геннадий Зюганов Андреевич</LastNameInitials>
+    </Med_exam>    <Med_exam>
+      <id>4</id>
+      <Conclusion>Негоден</Conclusion>
+      <Diagnosis>Полность здоров</Diagnosis>
+      <Date_medexam>10.05.2020 0:00:00</Date_medexam>
+      <LastNameInitials>Геннадий Зюганов Андреевич</LastNameInitials>
+    </Med_exam>
+  </Med_examsList>
+</Med_exams>

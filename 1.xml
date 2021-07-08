@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersList>
+    <User>
+      <id>1</id>
+      <Email>502F11C62E9CAD46A3CF7B5BB4EB1F3E73034D5453FA882B125656420B9238A3</Email>
+      <Password>C39ED78FB940C09AC66FBE97AC040B4DF9A00142B5DABD24B865E26706D1A80E</Password>
+      <Name>Михаил</Name>
+      <Surname>Белявский</Surname>
+      <Patronymic>Викторович</Patronymic>
+      <Country>1</Country>
+      <Gender>1</Gender>
+      <Date_born>25.03.2000 0:00:00</Date_born>
+      <Is_Admin>1</Is_Admin>
+    </User>
+    <User>
+      <id>2</id>
+      <Email>6851F1871071A52D8DEA22B61E42C424754B05B570C993C5FD1D977AA322ACB2</Email>
+      <Password>E70603B4AB127B8BF124BF54F5C0C99B832259ED217077784AFC8BA77B6C147D</Password>
+      <Name>Владимир</Name>
+      <Surname>Путин</Surname>
+      <Patronymic>Молодец</Patronymic>
+      <Country>1</Country>
+      <Gender>1</Gender>
+      <Date_born>12.10.1965 0:00:00</Date_born>
+      <Is_Admin>0</Is_Admin>
+    </User>
+  </UsersList>
+</Users>
